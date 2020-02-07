@@ -3,3 +3,4 @@
 
 Hello,Git
 Hello, Git profit
+Hello, squash!
